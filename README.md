@@ -1,2 +1,2 @@
 # ShortKnowledge
-Short description of programing language
+Short knowledge of programing language
